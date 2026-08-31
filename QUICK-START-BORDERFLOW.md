@@ -25,8 +25,22 @@ Keine Sprachbarrieren. Keine Missverständnisse. Keine Verzögerungen.
 
 BorderFlow = Smart Border Austria, aber digital zu Ende gedacht. 🚛💨
 
-#Logistik #Digitalisierung #SmartBorder #BorderFlow #Transport #Innovation #Vorarlberg
+#BorderFlow #SmartBorder #Logistik #Digitalisierung #Vorarlberg #Austria #Transport
 ```
+
+### Das Bild ist fertig! ✅
+
+**Datei:** `borderflow-linkedin-post.png` (bereits im Repository)
+
+Zeigt: BorderFlow-App auf Smartphone, LKW an österreichischer Grenze, Alpine Kulisse
+
+### Hashtags (empfohlen):
+
+```
+#BorderFlow #SmartBorder #Logistik #Digitalisierung #Vorarlberg #Austria #Transport
+```
+
+**Mehr Hashtag-Optionen:** Siehe `borderflow-hashtags.md`
 
 ---
 

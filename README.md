@@ -15,7 +15,9 @@ Dieses Repository enthält vollständige **LinkedIn-Marketing-Kampagnen** und **
 - **[kunden-email-smartborder.md](kunden-email-smartborder.md)** – 4 professionelle E-Mail-Vorlagen für Kundenkommunikation
 
 #### BorderFlow Marketing-Materialien 🆕
-- **[QUICK-START-BORDERFLOW.md](QUICK-START-BORDERFLOW.md)** ⭐ **START HIER!** – Fertiger Post + Foto in 15 Min.
+- **[QUICK-START-BORDERFLOW.md](QUICK-START-BORDERFLOW.md)** ⭐ **START HIER!** – Fertiger Post + Foto
+- **[borderflow-linkedin-post.png](borderflow-linkedin-post.png)** 📸 – Fertiges Bild (1080x1080, ready to post!)
+- **[borderflow-hashtags.md](borderflow-hashtags.md)** 🏷️ – Hashtag-Strategien & Empfehlungen
 - **[linkedin-post-borderflow.md](linkedin-post-borderflow.md)** – 4 LinkedIn-Post-Versionen + Strategien
 - **[borderflow-foto-mockup-anleitung.md](borderflow-foto-mockup-anleitung.md)** – Schritt-für-Schritt Foto-Erstellung mit Canva
 
