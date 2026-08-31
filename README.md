@@ -1,15 +1,23 @@
 # Logistikberater
 
-## SmartBorder Marketing-Materialien
+## SmartBorder & BorderFlow Marketing-Materialien
 
-Dieses Repository enthält eine vollständige **LinkedIn-Marketing-Kampagne** und **Kunden-E-Mail-Vorlagen** für **SmartBorder** – die intelligente Lösung für Zollabwicklung und Korridorverkehr.
+Dieses Repository enthält vollständige **LinkedIn-Marketing-Kampagnen** und **Kunden-E-Mail-Vorlagen** für:
+- **SmartBorder** – Die intelligente Lösung für Zollabwicklung und Korridorverkehr
+- **BorderFlow** – Die digitale Fahrerkommunikation für Smart Border Austria
 
 ### 📁 Inhalte
 
+#### SmartBorder Marketing-Kampagne
 - **[EXECUTIVE-SUMMARY.md](EXECUTIVE-SUMMARY.md)** – Schnellüberblick über die gesamte Kampagne
 - **[smartborder-linkedin-kampagne.md](smartborder-linkedin-kampagne.md)** – Vollständige Kampagnenstrategie mit 7 fertigen LinkedIn-Posts
 - **[visual-konzepte.md](visual-konzepte.md)** – Detaillierte Beschreibungen für visuelle Elemente und Design
 - **[kunden-email-smartborder.md](kunden-email-smartborder.md)** – 4 professionelle E-Mail-Vorlagen für Kundenkommunikation
+
+#### BorderFlow Marketing-Materialien 🆕
+- **[QUICK-START-BORDERFLOW.md](QUICK-START-BORDERFLOW.md)** ⭐ **START HIER!** – Fertiger Post + Foto in 15 Min.
+- **[linkedin-post-borderflow.md](linkedin-post-borderflow.md)** – 4 LinkedIn-Post-Versionen + Strategien
+- **[borderflow-foto-mockup-anleitung.md](borderflow-foto-mockup-anleitung.md)** – Schritt-für-Schritt Foto-Erstellung mit Canva
 
 ### 🎯 Zielgruppe
 
@@ -17,6 +25,12 @@ Vorarlberger Unternehmen mit Schweiz-Geschäft, die mit Zollabwicklung und Grenz
 
 ### 🚀 Quick Start
 
+#### BorderFlow-Post (sofort umsetzbar):
+1. Öffnen Sie **[QUICK-START-BORDERFLOW.md](QUICK-START-BORDERFLOW.md)** ⭐
+2. Post kopieren + Foto in Canva erstellen (15 Min.)
+3. Morgen um 8:30 Uhr auf LinkedIn posten!
+
+#### SmartBorder-Kampagne (6 Wochen):
 1. Öffnen Sie `EXECUTIVE-SUMMARY.md` für einen Überblick
 2. Lesen Sie `smartborder-linkedin-kampagne.md` für die detaillierte LinkedIn-Strategie
 3. Wählen Sie passende E-Mail-Vorlagen aus `kunden-email-smartborder.md`
